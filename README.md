@@ -87,5 +87,5 @@ Open index.html in your browse.
 ---
 
 ## 9. GitHub Repository
-([Add your GitHub repository link here](https://github.com/radhikashettennavar/UB-1036))
+https://github.com/radhikashettennavar/UB-1036
 
